@@ -3,7 +3,7 @@
 <!--
 **Emily-ct/Emily-ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-!{https://www.deviantart.com/wholemleko/art/Cat-Banner-939837829}
+![https://www.deviantart.com/wholemleko/art/Cat-Banner-939837829]
 
 Here are some ideas to get you started:
 
